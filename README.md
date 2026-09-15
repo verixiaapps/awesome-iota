@@ -102,6 +102,8 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [codebuffet.co](https://iota.codebuffet.co/) - IOTA Tangle Explorer
 * [iotasear.ch](https://iotasear.ch) - IOTA Tangle Explorer
 * [thetangle.org](https://thetangle.org/) - IOTA Tangle Explorer
+* [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 
 ## Developers
 
